@@ -1,3 +1,54 @@
+# Resume
+
+## Personal Information
+- **Name**: Zixin Huang  
+- **Ethnicity**: Han Chinese  
+- **Gender**: Male  
+- **Date of Birth**: September 11, 2003  
+- **Undergraduate Institution**: Tsinghua University  
+- **Majors**: Mathematical and Physical Sciences; Civil, Hydraulic, and Ocean Engineering  
+- **Phone Number**: 15800912947  
+- **Email**: zx-huang22@mails.tsinghua.edu.cn  
+
+## Education
+- **September 2022 - Present**: Tsinghua University, Weiyang College, Major in Mathematical and Physical Sciences; Civil, Hydraulic, and Ocean Engineering  
+  - **Class Rank**: Top 30%  
+  - **GPA**: 3.937 / 4.0  
+  - **Core Courses**:
+    - Data Structures and Algorithm Analysis (A+)
+    - Pattern Recognition and Machine Learning (A+)
+    - Numerical Analysis (A)
+    - Deep Learning (A-)
+    - Probability Theory and Stochastic Processes (A+)
+    - Mathematical Physics Equations (A+)
+    - US-China Trade Disputes and Globalization Reconstruction (A+)
+    - Engineering Graphics Fundamentals (A+)
+    - Practical Training (A+)
+  - **Major Honors**:  
+    - 2024 Tsinghua University Weiyang College Youwei Second Prize Scholarship – Academic Excellence Award (3000 CNY)
+
+## Research Experience
+- **Research Project in Professor Songhai Zhang’s Group, Tsinghua University**  
+  *Meet your Landscapes: An LLM-assisted Multi-Agent Interactive Framework for Collaborative Urban Landscape Design*  
+  - Under the guidance of Liu Jia-Hong in the research group, explored the use of large language models to empower urban 3D scene generation by developing a multi-user interactive framework and establishing a complete, efficient workflow.
+  - Responsible for the process that generates the final scene layout from grid maps.
+  - Expected to be submitted to *Multimedia* in April 2025.
+
+## Other Explorations and Achievements
+- **July 2024**: Participated in the “Basic Discipline Interdisciplinary Practice Course” – 4th Artificial Intelligence Challenge for Mapping, Open-Domain Few-Shot Visual Classification Track  
+  - Achieved a rank within the top 67 on List B.
+- **June 2024**: Innovative Project in the “Engineering Geology” course – “Mechanism Study of Rainfall-Induced Slope Failures”  
+  - Completed a literature review and conducted CoSim simulations.
+
+## Self-Evaluation
+- Possess strong self-learning ability and logical thinking; solid foundation in mathematics and physics.
+- Passionate about research, dedicating approximately 8 hours per week to research progress during the first half of the junior year.
+- Diligent and hardworking; achieved a full 4.0 in both research and a 23-credit course load concurrently during the first half of the junior year.
+- Eager to embrace new challenges, quickly familiarized with the group’s self-developed 3D scene generation platform and its underlying logic; actively experimented with using Stable Diffusion to assist in process design.
+- Highly optimistic about the future prospects of LLM-assisted interactive scene layout generation.
+
+---
+
 # 个人简历
 
 ## 基本信息
@@ -46,6 +97,3 @@
 - 学习刻苦认真，在大三上半学期同时推进科研和 23 学分的课程均获得满绩 4.0。
 - 乐于接受新事物，快速熟悉了课题组自创的 3D 场景生成平台及其生成逻辑；在科研探索中积极尝试利用 Stable Diffusion 辅助流程设计。
 - 对 LLM 辅助交互式生成场景布局的未来前景抱有较高预期。
-
----
-
